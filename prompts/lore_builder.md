@@ -1,5 +1,7 @@
 # lore.md 生成模板
 
+这是一份固定数据层 Prompt，用于把设定事实整理成 `lore.md`。
+
 输出结构：
 
 ```markdown

@@ -1,5 +1,7 @@
 # 生成结果自检 Prompt
 
+这是一份校验层 Prompt，用于检查各层内容有没有互相越界。
+
 用途：
 
 - 用于在生成 `persona.md`、`lore.md`、`relationship.md`、`custom.md` 后做自检

@@ -1,5 +1,7 @@
 # persona.md 生成模板
 
+这是一份固定数据层 Prompt，用于把角色本体整理成 `persona.md`。
+
 输出结构：
 
 ```markdown
